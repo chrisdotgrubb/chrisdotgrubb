@@ -1,15 +1,13 @@
 Hi 👋 My name is Chris Grubb
 ============================
 
-Software Engineer | Python · Javascript · PostgreSQL Mongodb |
+Software Engineer | React · React Native · TypeScript |
 --------------------------------------------------------------
 
 I am an observant detail-oriented problem-solver, always looking to learn something new. Owning a small business helped me learn to be self-sufficient and solve problems on my own, while taking input on customer needs. I enjoy troubleshooting technical problems and finding solutions, no matter how difficult.
 
 *   🌍  I'm based in Bellefonte, PA
 *   ✉️  You can contact me at [developer.grubb@gmail.com](mailto:developer.grubb@gmail.com)
-*   🚀  I'm currently working on [Tune Collector](http://tune-collector.fly.dev)
-*   🧠  I'm learning React
 
 ### Skills
 
